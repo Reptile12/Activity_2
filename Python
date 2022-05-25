@@ -6,7 +6,7 @@ from progress.bar import Bar
 import faker
 import hashlib
 
-CONSTRING = "host=PostgreSQL 14 dbname=Activity_2 user=postgres password=12345"
+CONSTRING = "host=PostgreSQL 14 dbname=Activity_2 user=postgres password=1234"
 SEED = 1337
 
 
